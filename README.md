@@ -1,7 +1,7 @@
 # Hits-Macro
 Hits 방문자 매크로
 <h1 align=center>
-🤪I'm manipulating the hits, Just for fun !🤪<br>
+방문자가 많아 보이게 하는 Hits-Macro 입니다.
 </h1>
 
 ```python
